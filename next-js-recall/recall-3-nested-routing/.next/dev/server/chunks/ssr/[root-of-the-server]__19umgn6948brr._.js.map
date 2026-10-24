@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ameer/OneDrive/Pictures/Desktop/MERN%20Stack%20Course%20Projects/next-js-recall/recall-3-nested-routing/app/docs/[...slug]/page.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst page = async ({params}) => {\r\n\r\n    const {slug} = await params;\r\n\r\n  return (\r\n    <div>\r\n      Documentation Page <br />\r\n      <span>\r\n        {slug}\r\n      </span>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default page\r\n"],"names":["page","params","slug"],"mappings":";;;;;AAAA;;;AAEA,MAAMA,OAAO,OAAO,EAACC,MAAM,EAAC;IAExB,MAAM,EAACC,IAAI,EAAC,GAAG,MAAMD;IAEvB,qBACE,8OAAC;;YAAI;0BACgB,8OAAC;;;;;0BACpB,8OAAC;0BACEC;;;;;;;;;;;;AAIT;uCAEeF"}},
+    {"offset": {"line": 60, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ameer/OneDrive/Pictures/Desktop/MERN%20Stack%20Course%20Projects/next-js-recall/recall-3-nested-routing/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 48, height: 48 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAIC,QAAQ;AAAG"}}]
+}
