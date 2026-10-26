@@ -6,7 +6,7 @@ const page = async ({ params }) => {
 
   return (
     <div>
-      This is a Documentation Page <br />
+      This is a  Documentation Page <br />
       <span>
         {slug}
       </span>
