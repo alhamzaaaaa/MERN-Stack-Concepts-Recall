@@ -1,9 +1,10 @@
 import React from 'react'
+import Link from 'next/link';
 
 const page = () => {
   return (
     <div>
-      TWOPage
+      <Link href={"/four"}>Go to page four</Link>
     </div>
   )
 }
