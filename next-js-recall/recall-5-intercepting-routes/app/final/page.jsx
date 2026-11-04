@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      FInal Page
+      FInal Page of this topic.
     </div>
   )
 }
