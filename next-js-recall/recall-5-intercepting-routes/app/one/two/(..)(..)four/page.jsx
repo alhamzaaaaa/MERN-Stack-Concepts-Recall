@@ -4,10 +4,7 @@ import Link from 'next/link';
 const page = () => {
     return (
         <div>
-           Fourth Intercepted Page.
-        <div>
-            this is a msg for you
-        </div>
+           <p>Hey this is a simple page</p>
         </div>
     )
 }
