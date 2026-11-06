@@ -7,7 +7,9 @@ const page = () => {
             <button className='bg-purple-200 rounded-xl font-medium text-md p-2 '>
                 <Link href={"/one/two"}>Redirect to two page</Link>
             </button>
-            
+            <span>
+                This is page one, click the button to redirect to page two
+            </span>
              <br  />
 
             <button className='bg-amber-200 rounded-xl font-medium text-md p-2 '>
