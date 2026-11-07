@@ -7,6 +7,9 @@ const page = () => {
       <div>
         this is the final page of this topic, you can go back to page one by clicking the button below.
       </div>
+      <div className='font-2xl'>
+        Just another random div.
+      </div>
     </div>
   )
 }
