@@ -4,7 +4,9 @@ const page = () => {
     return (
         <div>
             <nav>
-                <ul></ul>
+                <ul>
+                    <li></li>
+                </ul>
             </nav>
             <h1>
                 About Page
