@@ -3,7 +3,9 @@ import React from 'react'
 const page = () => {
     return (
         <div>
-            <nav></nav>
+            <nav>
+                <ul></ul>
+            </nav>
             <h1>
                 About Page
             </h1>
