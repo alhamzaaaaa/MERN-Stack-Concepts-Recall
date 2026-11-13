@@ -5,7 +5,7 @@ const page = () => {
         <div>
             <nav>
                 <ul>
-                    <li></li>
+                    <li><a href="/">Home</a></li>
                 </ul>
             </nav>
             <h1>
