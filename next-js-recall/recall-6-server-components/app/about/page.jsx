@@ -6,7 +6,7 @@ const page = () => {
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li></li>
+                    <li><a href="/about">About</a></li>
                 </ul>
             </nav>
             <h1>
