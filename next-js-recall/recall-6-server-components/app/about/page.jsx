@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
     return (
         <div>
-            <nav>
+            <nav className="flex">
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/about">About</a></li>
