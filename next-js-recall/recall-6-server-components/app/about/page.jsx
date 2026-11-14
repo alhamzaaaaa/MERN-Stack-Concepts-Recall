@@ -6,6 +6,7 @@ const page = () => {
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
+                    <li></li>
                 </ul>
             </nav>
             <h1>
@@ -17,6 +18,7 @@ const page = () => {
             <h6>
                 It is important to note that our team is made up of dedicated professionals who are passionate about what they do. We believe in transparency, integrity, and collaboration, and we strive to create a positive impact in the communities we serve.
             </h6>
+
         </div>
     )
 }
