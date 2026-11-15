@@ -12,7 +12,7 @@ const page = () => {
             </nav>
             <div>
                 <span>
-                    Welcome to our application! We are thrilled to have you here. Our goal is to provide you with the best experience possible, and we are constantly working to improve our services. 
+                    Welcome to our application! We are thrilled to have you here. Our goal is to provide you with the best experience possible, and we are constantly working to improve our services. Thank you for visiting our about page, and we hope you find the information you are looking for.
                 </span>
             </div>
             <h1>
