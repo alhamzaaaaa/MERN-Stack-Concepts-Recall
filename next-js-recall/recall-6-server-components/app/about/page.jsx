@@ -10,6 +10,9 @@ const page = () => {
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </nav>
+            <div>
+                
+            </div>
             <h1>
                 About Page
             </h1>
