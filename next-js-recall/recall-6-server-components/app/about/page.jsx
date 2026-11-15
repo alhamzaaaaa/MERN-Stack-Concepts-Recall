@@ -12,7 +12,7 @@ const page = () => {
             </nav>
             <div>
                 <span>
-                    Welcome to our application! 
+                    Welcome to our application! We are thrilled to have you here. 
                 </span>
             </div>
             <h1>
