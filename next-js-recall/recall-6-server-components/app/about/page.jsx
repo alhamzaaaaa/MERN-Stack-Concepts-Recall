@@ -11,7 +11,9 @@ const page = () => {
                 </ul>
             </nav>
             <div>
-                
+                <span>
+                    
+                </span>
             </div>
             <h1>
                 About Page
