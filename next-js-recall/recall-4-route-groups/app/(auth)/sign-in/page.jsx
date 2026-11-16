@@ -5,7 +5,7 @@ const page = () => {
     <div className=' flex flex-col justify-center items-center  text-4xl text-amber-300'>
       Sign In Page
       <h3>
-        This 
+        This is the sign
       </h3>
     </div>
   )
