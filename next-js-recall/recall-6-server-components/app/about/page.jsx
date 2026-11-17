@@ -26,7 +26,7 @@ const page = () => {
             </h6>
         <div>
             <h1>
-                This is just a minor chan
+                This is just a minor change.
             </h1>
         </div>
         </div>
