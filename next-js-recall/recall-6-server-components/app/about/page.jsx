@@ -26,7 +26,7 @@ const page = () => {
             </h6>
         <div>
             <h1>
-                This is
+                This is just
             </h1>
         </div>
         </div>
