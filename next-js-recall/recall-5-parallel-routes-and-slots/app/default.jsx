@@ -5,7 +5,7 @@ const Page = () => {
     <div>
       Default page for teams active slot in admin dashboard.
       <div>
-        Hey this is a push
+        Hey this is a push for git.
       </div>
     </div>
   )
