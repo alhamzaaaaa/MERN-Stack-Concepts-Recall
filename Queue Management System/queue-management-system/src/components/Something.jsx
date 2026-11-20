@@ -4,7 +4,7 @@ const Something = () => {
   return (
     <div>
       <span>
-        Just wanted
+        Just wanted to explore
       </span>
     </div>
   )
