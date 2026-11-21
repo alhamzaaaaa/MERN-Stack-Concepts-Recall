@@ -14,7 +14,7 @@ const Card = () => {
           A short description of the card content goes here.
         </p>
       </div>
-
+    </div>
   );
 };
 
