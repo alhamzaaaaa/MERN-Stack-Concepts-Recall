@@ -12,6 +12,8 @@ const Card = () => {
         <h2 className="text-xl font-bold text-gray-900 mb-2">Card Title</h2>
         <p className="text-gray-600 text-sm">
           A short description of the card content goes here.
+        </p>
+      </div>
 
   );
 };
